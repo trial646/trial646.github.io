@@ -34,13 +34,25 @@ a:visited {
 }
 
 }
-@media screen and (min-width: 380px) {
+@media screen and (max-width: 380px) {
 
 img {
-  display: none;
+  width: 100%;
   }
 
 }
+
+
+}
+@media screen and (max-width: 380px) {
+
+div.healthy-treats {
+  font-size:.5em;
+  }
+
+}
+
+
 
 
 
