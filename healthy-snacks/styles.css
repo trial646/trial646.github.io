@@ -1,0 +1,56 @@
+h1 {
+  text-align: center;
+  border: solid 6px;
+}
+
+div {
+  text-align: center;
+  border: solid 2px;
+  margin: 5% 5% 5% 5%;
+
+}
+
+img {
+  border: solid 2px;
+}
+
+body {
+  background-image: url("homegrown-tomatoes-basket.jpg");}
+
+h1 {
+  font-family: helvetica;
+}
+
+div.healthy-treats {
+  border-color: red;
+}
+
+div#On-the-go {
+  border-color: blue
+}
+
+a:visited {
+    color: hotpink;
+}
+
+
+@media screen and (max-width: 380px) {
+
+img {
+  width: 100%;
+  }
+
+}
+
+@media screen and (max-width: 380px) {
+
+h1 {
+  font-size:.5em;
+  }
+
+}
+
+
+
+
+
