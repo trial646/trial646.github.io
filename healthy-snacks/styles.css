@@ -33,7 +33,7 @@ a:visited {
     color: hotpink;
 }
 
-}
+
 @media screen and (max-width: 380px) {
 
 img {
@@ -42,11 +42,9 @@ img {
 
 }
 
-
-}
 @media screen and (max-width: 380px) {
 
-div.healthy-treats {
+h1 {
   font-size:.5em;
   }
 
